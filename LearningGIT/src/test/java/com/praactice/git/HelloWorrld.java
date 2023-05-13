@@ -4,9 +4,14 @@ public class HelloWorrld {
 
 	
 	public static void main(String[] args) {
-		// printing hw string
+
 		
 		System.out.println("Hello World! Get some Coffee");
+	
+	}
+	
+	
+	public void emptyMethod() {
 		
 	}
 }
